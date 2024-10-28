@@ -2,9 +2,12 @@
 ## About me:
 Experienced Software Engineer with nearly 3 years of full-stack development expertise, specializing in scalable solutions using C#, .NET, Blazor, PostgreSQL, and SQL Server. With a strong foundation in analyzing requirements and writing clean, efficient code, I excel in managing deployments and fostering team collaboration. After a 7-year tenure in C#, ASP.NET, and SQL Server, I resumed my career in 2022, bringing renewed energy and focus. Most recently, I successfully managed a project from inception to delivery, utilizing Scrum methodologies to ensure timely completion and alignment with business objectives. My Master in Business Administration enhances my capability to bridge the gap between technical solutions and strategic business goals. In my last project, I took the initiative to engage directly with the customer, gathering requirements and managing the project in Azure DevOps. This experience not only honed my project management skills but also reinforced my commitment to delivering value-driven solutions.
 
-# Diffrentiation /Unique Point : Creative /Risk Taker / Love challanges/ Clear goals
+### Diffrentiation /Unique Point : 
+Creative /Risk Taker / Love challanges/ Clear goals
 
 ## Work History
+### LuxSpace Sàrl, Betzdorf (Luxembourg)  
+(Software engineer )(Jan 2021- Nov 2024) (Around 3 years) 
 Design and Develop and Deploy
 ❖ SRDB Web application
 ❖ SRDB stores and maintains data necessary to generate Mission Information database which is used by SCOS-2000 Database as input. ❖ Orbit Sailor Viewer (front end) {Using React}
@@ -21,7 +24,7 @@ Conduct computer lab for 5-6 year children group
 Book reading for kids in  Library ,Swimming sessions helper for children  
 Luxembourgish Language and nationality exam .Relocation to Luxembourg ,Home 
 management and kids development (2012—2017) 
-Pakistan Stock Exchange  
+### Pakistan Stock Exchange  
 (Senior Software engineer / information security analysts) – July2009–May 2011 
 ❖ Manage, Analyze, Develop and maintained of internal access rights website using C#, 
 using SQL server 2010. 
